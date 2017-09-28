@@ -2799,7 +2799,8 @@ blockquote {
    Code
    ========================================================================== */
 tt, code, kbd, samp, pre {
-  font-family: monospace; }
+  font-family: monospace; 
+  padding: 0.5em; }
 
 p > code,
 a > code,
